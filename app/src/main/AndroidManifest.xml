@@ -15,6 +15,8 @@
         android:theme="@style/AppTheme"
         >
         <activity android:name=".ViewTypeActivity"></activity>
+        <activity android:name=".ExerciseActivity"></activity>
+        <activity android:name=".FastAdapterActivity"></activity>
         <activity android:name=".GridActivity" />
         <activity android:name=".LogoActivity" />
         <activity android:name=".SimpleActivity" />
